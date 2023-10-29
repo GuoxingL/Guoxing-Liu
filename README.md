@@ -1,6 +1,6 @@
 # Guoxing-Liu
 I'm a passionate full-stack software engineer, and I began my coding journey in June, and I'm here to make it even better. 🚀
-
+##
 <h3 align="left">Connect with me:</h3>
 <h3>Gmail: guoxingliu962396@gmail.com </h3>
 <h3>Linkin: https://www.linkedin.com/in/guoxing-liu-912259226/ </h3>
